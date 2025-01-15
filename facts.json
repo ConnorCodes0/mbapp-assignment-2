@@ -1,0 +1,37 @@
+[
+      {
+        "name": "Disneyland",
+        "location": "Anaheim, California, USA",
+        "yearOpened": 1955,
+        "owner": "The Walt Disney Company",
+        "funFact": "Disneyland was the first-ever Disney theme park and was personally overseen by Walt Disney."
+      },
+      {
+        "name": "Universal Studios Hollywood",
+        "location": "Los Angeles, California, USA",
+        "yearOpened": 1964,
+        "owner": "Comcast (Universal Parks & Resorts)",
+        "funFact": "The park features real working movie sets and studio tours."
+      },
+      {
+        "name": "Epcot",
+        "location": "Orlando, Florida, USA",
+        "yearOpened": 1982,
+        "owner": "The Walt Disney Company",
+        "funFact": "Epcot stands for 'Experimental Prototype Community of Tomorrow.'"
+      },
+      {
+        "name": "Tokyo Disneyland",
+        "location": "Tokyo, Japan",
+        "yearOpened": 1983,
+        "owner": "The Oriental Land Company (under license from Disney)",
+        "funFact": "It was the first Disney theme park to be built outside the United States."
+      },
+      {
+        "name": "Europa-Park",
+        "location": "Rust, Germany",
+        "yearOpened": 1975,
+        "owner": "Mack Family",
+        "funFact": "Europa-Park is the largest theme park in Germany and features 13 European-themed areas."
+      }
+    ]
