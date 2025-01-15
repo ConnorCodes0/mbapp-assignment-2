@@ -1,5 +1,4 @@
-{
-    "themeParks": [
+[
       {
         "name": "Disneyland",
         "location": "Anaheim, California, USA",
@@ -36,4 +35,3 @@
         "funFact": "Europa-Park is the largest theme park in Germany and features 13 European-themed areas."
       }
     ]
-  }
