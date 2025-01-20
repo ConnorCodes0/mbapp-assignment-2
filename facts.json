@@ -1,37 +1,100 @@
 [
-      {
-        "name": "Disneyland",
-        "location": "Anaheim, California, USA",
-        "yearOpened": 1955,
-        "owner": "The Walt Disney Company",
-        "funFact": "Disneyland was the first-ever Disney theme park and was personally overseen by Walt Disney."
-      },
-      {
-        "name": "Universal Studios Hollywood",
-        "location": "Los Angeles, California, USA",
-        "yearOpened": 1964,
-        "owner": "Comcast (Universal Parks & Resorts)",
-        "funFact": "The park features real working movie sets and studio tours."
-      },
-      {
-        "name": "Epcot",
-        "location": "Orlando, Florida, USA",
-        "yearOpened": 1982,
-        "owner": "The Walt Disney Company",
-        "funFact": "Epcot stands for 'Experimental Prototype Community of Tomorrow.'"
-      },
-      {
-        "name": "Tokyo Disneyland",
-        "location": "Tokyo, Japan",
-        "yearOpened": 1983,
-        "owner": "The Oriental Land Company (under license from Disney)",
-        "funFact": "It was the first Disney theme park to be built outside the United States."
-      },
-      {
-        "name": "Europa-Park",
-        "location": "Rust, Germany",
-        "yearOpened": 1975,
-        "owner": "Mack Family",
-        "funFact": "Europa-Park is the largest theme park in Germany and features 13 European-themed areas."
-      }
-    ]
+  {
+    "name": "Disneyland",
+    "location": "Anaheim, California, USA",
+    "yearOpened": 1955,
+    "owner": "The Walt Disney Company",
+    "funFact": "Disneyland was the first-ever Disney theme park and was personally overseen by Walt Disney."
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "location": "Los Angeles, California, USA",
+    "yearOpened": 1964,
+    "owner": "Comcast (Universal Parks & Resorts)",
+    "funFact": "The park features real working movie sets and studio tours."
+  },
+  {
+    "name": "Epcot",
+    "location": "Orlando, Florida, USA",
+    "yearOpened": 1982,
+    "owner": "The Walt Disney Company",
+    "funFact": "Epcot stands for 'Experimental Prototype Community of Tomorrow.'"
+  },
+  {
+    "name": "Tokyo Disneyland",
+    "location": "Tokyo, Japan",
+    "yearOpened": 1983,
+    "owner": "The Oriental Land Company (under license from Disney)",
+    "funFact": "It was the first Disney theme park to be built outside the United States."
+  },
+  {
+    "name": "Europa-Park",
+    "location": "Rust, Germany",
+    "yearOpened": 1975,
+    "owner": "Mack Family",
+    "funFact": "Europa-Park is the largest theme park in Germany and features 13 European-themed areas."
+  },
+  {
+    "name": "Lotte World",
+    "location": "Seoul, South Korea",
+    "yearOpened": 1989,
+    "owner": "Lotte Group",
+    "funFact": "Lotte World is home to the world's largest indoor theme park."
+  },
+  {
+    "name": "Alton Towers",
+    "location": "Staffordshire, England, UK",
+    "yearOpened": 1980,
+    "owner": "Merlin Entertainments",
+    "funFact": "The park was built on the grounds of a former country estate and features historic gardens."
+  },
+  {
+    "name": "PortAventura World",
+    "location": "Salou, Tarragona, Spain",
+    "yearOpened": 1995,
+    "owner": "Investindustrial and KKR",
+    "funFact": "PortAventura is one of the most visited theme parks in Europe and includes a Ferrari Land park."
+  },
+  {
+    "name": "Ocean Park",
+    "location": "Hong Kong, China",
+    "yearOpened": 1977,
+    "owner": "Ocean Park Corporation",
+    "funFact": "Ocean Park combines a marine mammal park, amusement rides, and a zoo in one location."
+  },
+  {
+    "name": "Gardaland",
+    "location": "Castelnuovo del Garda, Italy",
+    "yearOpened": 1975,
+    "owner": "Merlin Entertainments",
+    "funFact": "Gardaland is the most popular theme park in Italy and features attractions inspired by fantasy and adventure."
+  },
+  {
+    "name": "Shanghai Disneyland",
+    "location": "Shanghai, China",
+    "yearOpened": 2016,
+    "owner": "Shanghai Shendi Group (57%) and The Walt Disney Company (43%)",
+    "funFact": "Shanghai Disneyland's castle, Enchanted Storybook Castle, is the largest Disney castle ever built."
+  },
+  {
+    "name": "Busch Gardens",
+    "location": "Tampa, Florida, USA",
+    "yearOpened": 1959,
+    "owner": "SeaWorld Parks & Entertainment",
+    "funFact": "Busch Gardens combines world-class roller coasters with a massive zoo featuring over 200 animal species."
+  },
+  {
+    "name": "Disneyland Paris",
+    "location": "Chessy, France",
+    "yearOpened": 1992,
+    "owner": "The Walt Disney Company",
+    "funFact": "Disneyland Paris is the most visited theme park in Europe and features Sleeping Beauty's Castle as its centerpiece."
+  },
+  {
+    "name": "Tivoli Gardens",
+    "location": "Copenhagen, Denmark",
+    "yearOpened": 1843,
+    "owner": "Tivoli A/S",
+    "funFact": "Tivoli Gardens is one of the oldest amusement parks in the world and inspired Walt Disney to create Disneyland."
+  }
+]
