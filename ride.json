@@ -1,0 +1,32 @@
+[
+  {
+    "rideName": "Skyfire Soar",
+    "description": "Embark on a high-speed adventure through dazzling loops and fiery glowing skies. This thrilling rollercoaster simulates flying through a blazing meteor storm, complete with sudden drops, twists, and a fiery finale that will leave you breathless.",
+    "yearOpened": 2005
+  },
+  {
+    "rideName": "Mystic River Expedition",
+    "description": "Set sail on a journey through a dense and mysterious jungle, where hidden temples and mythical creatures await around every corner. This immersive water ride combines stunning visuals, thrilling rapids, and interactive storytelling for an unforgettable experience.",
+    "yearOpened": 1998
+  },
+  {
+    "rideName": "Lunar Escape",
+    "description": "Blast off into space on a daring mission to escape a rogue moon on a collision course with Earth. This sci-fi themed dark ride features cutting-edge special effects, gravity-defying turns, and a race against time through the vast expanse of the cosmos.",
+    "yearOpened": 2010
+  },
+  {
+    "rideName": "Dragon's Fury",
+    "description": "Venture into the lair of a legendary dragon on this thrilling indoor-outdoor coaster. With smoke-filled caves, fiery animatronic dragons, and heart-pounding corkscrews, this ride delivers an epic medieval adventure.",
+    "yearOpened": 2003
+  },
+  {
+    "rideName": "Enchanted Forest Quest",
+    "description": "Step into a magical forest filled with enchanting creatures and whimsical landscapes. This family-friendly ride combines gentle thrills with interactive elements, where riders can help a lost fairy find her way home by solving puzzles along the journey.",
+    "yearOpened": 1987
+  },
+  {
+    "rideName": "Neptune's Abyss",
+    "description": "Dive deep into the ocean on a breathtaking underwater adventure. This submarine-themed ride takes you through eerie shipwrecks, vibrant coral reefs, and the dark depths of the abyss, where a giant sea creature may emerge at any moment.",
+    "yearOpened": 2015
+  }
+]
