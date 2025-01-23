@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Skyfire Soar",
+      "description": "A high-speed rollercoaster that launches riders through glowing fire loops and into the clouds.",
+      "yearOpened": 2005
+    },
+    {
+      "name": "Neptune's Plunge",
+      "description": "A water coaster that dives deep into an underwater world filled with mythical sea creatures.",
+      "yearOpened": 1998
+    },
+    {
+      "name": "Dragon's Descent",
+      "description": "A free-fall tower where riders 'ride' a dragon plummeting into a medieval castle.",
+      "yearOpened": 2010
+    },
+    {
+      "name": "Jungle Stampede",
+      "description": "A safari jeep ride where guests dodge wild animals and cross rickety rope bridges.",
+      "yearOpened": 1987
+    },
+    {
+      "name": "Phantom Heights",
+      "description": "A spooky ferris wheel with eerie sights and ghostly surprises at each turn.",
+      "yearOpened": 1972
+    },
+    {
+      "name": "Temple of the Forgotten King",
+      "description": "A dark ride where explorers venture into a cursed ancient temple full of booby traps.",
+      "yearOpened": 1965
+    }
+  ]
