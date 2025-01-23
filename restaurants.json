@@ -1,0 +1,44 @@
+[
+    {
+      "restaurantName": "Galactic Grub",
+      "theme": "Space",
+      "description": "Dine among the stars at Galactic Grub, where the walls mimic the cosmos, and the menu features intergalactic delicacies like Meteor Meatballs and Cosmic Shakes.",
+      "costBracket": "$$$",
+      "yearOpened": 2010
+    },
+    {
+      "restaurantName": "Pirate's Platter",
+      "theme": "Pirates",
+      "description": "Step aboard the Pirate's Platter, a ship-shaped eatery serving hearty seafood feasts, with a live band of animatronic buccaneers providing endless entertainment.",
+      "costBracket": "$$",
+      "yearOpened": 2005
+    },
+    {
+      "restaurantName": "Jurassic Bites",
+      "theme": "Dinosaurs",
+      "description": "Transport yourself to a prehistoric paradise at Jurassic Bites, where animatronic dinosaurs roam and dishes like the T-Rex Burger and Dino Nuggets delight the whole family.",
+      "costBracket": "$$",
+      "yearOpened": 2018
+    },
+    {
+      "restaurantName": "Castle Feast",
+      "theme": "Medieval",
+      "description": "Enjoy a royal banquet at Castle Feast, a grand medieval-themed restaurant featuring long wooden tables, hearty roasts, and costumed knights entertaining the guests.",
+      "costBracket": "$$$",
+      "yearOpened": 1998
+    },
+    {
+      "restaurantName": "Wild West BBQ",
+      "theme": "Western",
+      "description": "Saddle up for a taste of the Old West at Wild West BBQ, where smoky ribs, cornbread, and cowboy chili are served in a saloon-style setting with live country music.",
+      "costBracket": "$",
+      "yearOpened": 2012
+    },
+    {
+      "restaurantName": "Enchanted Eats",
+      "theme": "Fantasy",
+      "description": "Step into a magical forest filled with sparkling lights and whimsical creatures, where dishes like Fairy Fruit Bowls and Mystic Macarons enchant diners of all ages.",
+      "costBracket": "$$",
+      "yearOpened": 2008
+    }
+  ]
